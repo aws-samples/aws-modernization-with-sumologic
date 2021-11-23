@@ -16,8 +16,6 @@ Will need
 
 3. Choose the role that contains your Partner Name in it.
 
-    
-
 4. Click **Save**
 
 
