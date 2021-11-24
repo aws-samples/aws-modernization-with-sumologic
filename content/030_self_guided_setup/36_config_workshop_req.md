@@ -1,5 +1,5 @@
 ---
-title: "5. Configure workshop specific requirements"
+title: "4. Configure workshop specific requirements"
 chapter: true
 weight: 18
 ---
@@ -50,4 +50,4 @@ weight: 18
    If the IAM role is not valid, <span style="color: red;">**DO NOT PROCEED**</span>. Go back and confirm the steps on this page.
    {{% /notice %}}
 
-   If you are done, please proceed to the Partner Setup section!
+   If you are done, please proceed to Sumo Logic setup!
