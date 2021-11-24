@@ -1,11 +1,11 @@
 ---
-title: "Observability and Monitoring Lab"
+title: "AWS Observability and Monitoring Labs"
 chapter: true
 draft: false
 weight: 6
 ---
 
-# AWS Application Observability and Monitoring Lab
+# AWS Application Observability and Monitoring Labs
 
 In these labs, you'll learn how dashboards created based on metrics are instrumental in identifying the root cause of an outage and trace a transaction. You’ll use the Root Cause Explorer and Traces, powerful Observability features in Sumo Logic.
 

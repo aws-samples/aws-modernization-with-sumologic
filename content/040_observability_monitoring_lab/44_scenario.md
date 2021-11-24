@@ -21,4 +21,4 @@ The duration in milli or microseconds is captured while each span of the transac
 
 #### The Problem to Solve:
 
-Abel, the Coffee Lover orders coffee at 8:45 am using the Coffee App, However, his transaction is unsuccessful. You need to trace the transaction and troubleshoot and address the issue ASAP.
+Abel, the Coffee Lover orders coffee at 8:45 am using the Coffee App, However, his transaction is unsuccessful. You need to trace the transaction and troubleshoot and address the issue as soon as possible.

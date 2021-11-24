@@ -16,7 +16,7 @@ Each folder must have an _index.md file. The frontmatter (first lines) must incl
 
 ```
 ---
-title: "Observability and Monitoring Lab"
+title: "AWS Observability and Monitoring Lab"
 chapter: true
 draft: false
 weight: 6

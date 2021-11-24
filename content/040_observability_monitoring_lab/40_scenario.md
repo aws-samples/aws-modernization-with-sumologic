@@ -12,10 +12,10 @@ TravelLogic is an app that facilitates travellers booking their flights online a
 
 You, a DevOps specialist, are supporting a TravelLogic app on AWS that uses following AWS services:
 
-- ELB (Application Load Balancer)
-- Host/EC2
-- DynamoDB
+- Amazon Elastic Load Balancing (ELB, Application Load Balancer)
+- Host/Amazon Elastic Comput Cloud (EC2)
+- Amazon DynamoDB
 
 #### The Problem to Solve:
 
-The TravelLogic app faces unusual latency in loading the app web page, also sometimes resulting in outage in the us-area-1. You need to find out the root cause of the latency and outages ASAP.
+The TravelLogic app faces unusual latency in loading the app web page, also sometimes resulting in outage in the us-east-1. You need to find out the root cause of the latency and outages as soon as possible.
