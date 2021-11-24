@@ -10,7 +10,7 @@ Welcome to Sumo Logic labs. These hands-on self-paced labs for DevOps profession
 
 You will use root cause analysis tools and tracing features to reviews logs, identify possible performance issues and failed services, and troubleshoot solutions.
 
-# Workshop Structure
+## Workshop Structure
 
 This workshop is broken into the sections list below.  Estimated time for completing the workshop is 1.5-2.5 hours.
 
