@@ -14,7 +14,7 @@ In these labs, you will gain experience using Sumo Logic to dive into strategies
 
 - Knowing how both front and backend elements of your modern applications interact and perform
 - When and where issues arise in your AWS infrastructure
-- How to find answers quickly from your traces, metrics and logs
+- How to find answers quickly from your traces, metrics, and logs
 
 DevOps professionals have many tools and features available in Sumo Logic to determine the roote cause, review logs, and discover traces to identify possible performance issues and failed services, and troubleshoot solutions.
 
