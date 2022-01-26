@@ -143,7 +143,7 @@ To create a branch using GitHub Desktop:
 
 1. To build, open a terminal (MacOS) or run prompt (Windows).
 1. Change directory to the location you cloned the repo.
-1. Enter the command: `hug server -D`
+1. Enter the command: `hugo server -D`
 
 Hugo builds the site and deploys it to http://localhost:1313/. Open this site to review. 
 

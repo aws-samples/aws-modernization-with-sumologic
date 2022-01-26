@@ -11,8 +11,10 @@ You'll need two different browser windows open for the lab activities. In one br
 Log into your Sumo Logic account, click **Home** > **Certification** tab > **Get Certified** to open the [Learning Management System](https://learn.sumologic.com/). Here you will find the email and current password required for these labs. You will use the password in these labs.
 
 {{% notice note %}}
-If you need a Sumo Logic account, you can [sign up for a free trial](https://www.sumologic.com/sign-up/).
+If you need a Sumo Logic account, you can [sign up for a free trial](https://aws.amazon.com/marketplace/pp/prodview-o622lpl6biu6s?sr=0-2&ref_=beagle&applicationId=AWSMPContessa) through the AWS Marketplace site.
 {{% /notice %}}
+
+### Access the Training Environment
 
 To access the training lab environment:
 
@@ -25,6 +27,8 @@ To access the training lab environment:
 {{% notice note %}}
 The password changes monthly. You can find the password on the [training homepage](https://learn.sumologic.com/) for more information.
 {{% /notice %}}
+
+### Use Multiple Browsers
 
 Using separate browsers will keep you logged in to your regular Sumo Logic account and the training lab environment at the same time. If you're reading this on Chrome, open a Firefox window. If you don't have two different browsers on your machine, you can open a Private or Incognito window instead.
 

@@ -2,7 +2,7 @@
 title: "AWS Observability and Monitoring Labs"
 chapter: true
 draft: false
-weight: 6
+weight: 7
 ---
 
 # AWS Application Observability and Monitoring Labs
